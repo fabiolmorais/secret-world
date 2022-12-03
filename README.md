@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# Projeto Secret Word
+
+Projeto feito em React com finalidade de criar um mini game onde o usuário tenta acertar a palvra de acordo com a dica.
+
+Projeto desenvolvido durante o curso [React do Zero a Maestria](https://www.udemy.com/course/react-do-zero-a-maestria-c-hooks-router-api-projetos).
+
+Esse projeto foi desenvolvido com intuito de treinar o que já vinhamos aprendendo durante o curso.
+
+Neste projeto treinamos alguns estados como `useState, useEffect e useCallback`, praticamos a criação e re-utilização dos componentes, além de estilizar os mesmos, criação e manipulação de Props, eventos e lógica de programação.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
